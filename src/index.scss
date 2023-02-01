@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@font-face {
+  font-family: 'Baumans';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Baumans'), url('./fonts/Baumans-Regular.ttf') format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Baumans', 'Inter', sans-serif;
+  color: #070606;
+}

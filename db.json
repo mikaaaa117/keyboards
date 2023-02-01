@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "tag": "keyboards",
+      "title": "Keyboard Keychron V1",
+      "price": 89,
+      "img": "keychron-v1.webp"
+    },
+    {
+      "id": 1,
+      "tag": "keyboards",
+      "title": "Keyboard Keychron Q1",
+      "price": 189,
+      "img": "keychron-q1.webp"
+    },
+    {
+      "id": 2,
+      "tag": "keyboards",
+      "title": "Keyboard Keychron K2",
+      "price": 99,
+      "img": "keychron-k2.webp"
+    },
+    {
+      "id": 3,
+      "tag": "keyboards",
+      "title": "Keyboard Keychron K3",
+      "price": 89,
+      "img": "keychron-k3.webp"
+    },
+    {
+      "id": 4,
+      "tag": "switches",
+      "title": "Gateron Baby Kangaroo",
+      "price": 66,
+      "img": "geteron-switches-baby-kangaroo.webp"
+    },
+    {
+      "id": 5,
+      "tag": "keycaps",
+      "title": "Keychron PBT keycaps - Christmas gift (black)",
+      "price": 40,
+      "img": "keychron-pbt-keycaps-christmas-gift-black.webp"
+    },
+    {
+      "id": 6,
+      "tag": "keycaps",
+      "title": "Keychron PBT keycaps - Christmas gift (white)",
+      "price": 40,
+      "img": "keychron-pbt-keycaps-christmas-gift-white.webp"
+    }
+  ]
+}
